@@ -2,8 +2,8 @@
 
 ## I'm a FrontEnd Developer
 
-- 💪 I like to write code
-- 🧑‍💻 I am constantly learning new things
+- 🧑‍💻 I like to write code
+- 📚 I am constantly learning new things
 - 🕹️ I love playing computer games
 <br />
 
