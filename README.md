@@ -1,10 +1,18 @@
 ### Hi there 👋, I'm Valera
 
-## I'm a FrontEnd Developer
+### Привет, меня зовут Валера
 
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- 🎉 I love playing computer games
+### :man_technologist: Обо мне
+
+Я начинающий веб разработчик. Мой путь в it начался с самостоятельного поиска информации по верстке сайтов и веб разработке. С августа 2022 года по март 2023 я изучал веб разработку на курсе Frontend developer от Skillbox. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я начал изучать React!
+
+- :seedling: Завершил курсы по веб-разработке SkillBox!
+
+- :zap: Учу React!
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
+
+---
 <br />
 
 ### 🧰 Languages and Tools
@@ -16,12 +24,25 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 <br />
 <br />
 
 ### Connect with me
 
-[<img align="left" alt="ValeRonKozlov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+### 🤝 Социальные сети
+
+  <div id="badges">
+
+    <a href="https://t.me/ValeRonKozlov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+
+    <a href="https://vk.com/valeronkozlov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+
+  </div>
 
 <br />
 
@@ -31,5 +52,3 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ValeRonKozlov&show_icons=true" />
 </details>
-
-[vk]: https://vk.com/valeronkozlov
