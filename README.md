@@ -29,7 +29,6 @@
 <img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
 
 <br />
-<br />
 
 ---
 
