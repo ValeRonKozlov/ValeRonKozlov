@@ -49,11 +49,11 @@
 
 ---
 
-### 💻 Codewars
+<!-- ### 💻 Codewars
 
 ![codewars](https://www.codewars.com/users/ValeRonKozlov/badges/large)
 
----
+--- -->
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeRonKozlov&langs_count=8&layout=compact" />
