@@ -6,7 +6,7 @@
 
 - :seedling: Завершил курсы по веб-разработке SkillBox!
 
-- :zap: Учу React!
+- 🖥️ Учу React!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
 
