@@ -4,7 +4,7 @@
 
 - 💪 I like to write code
 - 🧑‍💻 I am constantly learning new things
-- 🎮 I love playing computer games
+- 🕹️ I love playing computer games
 <br />
 
 ### 🧰 Languages and Tools
