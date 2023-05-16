@@ -9,6 +9,7 @@
 - :zap: Учу React!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
+
 <br />
 
 ---
@@ -26,11 +27,11 @@
 <img align="left" alt="webpack" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />&nbsp;
 <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
 <img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
+
+<br />
 <br />
 
 ---
-
-<br />
 
 ### 🤝 Социальные сети
   
