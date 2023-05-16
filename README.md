@@ -50,8 +50,6 @@
 
 ![codewars](https://www.codewars.com/users/ValeRonKozlov/badges/large)
 
-<br />
-
 ---
 <details>
   <summary>:zap: Statistics:</summary>
