@@ -25,11 +25,12 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
 <img align="left" alt="webpack" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />&nbsp;
 <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
-<img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />
-<br />
+<img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
 <br />
 
 ---
+
+<br />
 
 ### 🤝 Социальные сети
   
