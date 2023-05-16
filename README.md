@@ -2,8 +2,7 @@
 
 ### Привет, меня зовут Валера
 
-<<<<<<< HEAD
-### :man_technologist: Обо мне
+### man_technologist: Обо мне
 
 Я начинающий веб разработчик. Мой путь в it начался с самостоятельного поиска информации по верстке сайтов и веб разработке. С августа 2022 года по март 2023 я изучал веб разработку на курсе Frontend developer от Skillbox. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я начал изучать React!
 
@@ -11,14 +10,9 @@
 
 - :zap: Учу React!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
 
 ---
-=======
-- 🧑‍💻 I like to write code
-- 📚 I am constantly learning new things
-- 🕹️ I love playing computer games
->>>>>>> 505326ab1aae56983062e0622ee3073e8813d1e0
 <br />
 
 ### 🧰 Languages and Tools
@@ -34,12 +28,8 @@
 <br />
 <br />
 
-### Connect with me
-
 ### 🤝 Социальные сети
-
-  <div id="badges">
-
+  
     <a href="https://t.me/ValeRonKozlov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
@@ -47,8 +37,6 @@
     <a href="https://vk.com/valeronkozlov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-
-  </div>
 
 <br />
 
