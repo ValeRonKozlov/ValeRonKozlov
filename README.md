@@ -18,17 +18,17 @@
 
 <div>
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;
-  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
-  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
-  <img align="left" alt="reactjs" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
-  <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
-  <img align="left" alt="webpack" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />&nbsp;
-  <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
-  <img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
-  <img align="left" alt="jest" width="30px"  style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />&nbsp;
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img align="left" alt="reactjs" width="30px" style="padding-right:10px;" title="Reactjs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
+  <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
+  <img align="left" alt="Git" width="30px" style="padding-right:10px;" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+  <img align="left" alt="webpack" width="30px"  style="padding-right:10px;" title="Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />&nbsp;
+  <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" title="gulp" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
+  <img align="left" alt="jest" width="30px"  style="padding-right:10px;" title="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
+  <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />&nbsp;
 </div>
 
 <br />
