@@ -1,4 +1,4 @@
-### Привет 👋, меня зовут Валера
+### Привет 👋, меня зовут Валера!
 
 ### Обо мне
 
@@ -6,7 +6,7 @@
 
 - :seedling: Завершил курсы по веб-разработке SkillBox!
 
-<!-- - 📚 Учу React! -->
+- 📚 Учу React!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
 
