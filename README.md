@@ -21,6 +21,7 @@
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
   <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
+  <img align="left" alt="vue" width="30px" style="padding-right:10px;" title="vuejs" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />&nbsp;
   <img align="left" alt="reactjs" width="30px" style="padding-right:10px;" title="Reactjs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp;
   <img align="left" alt="SASS" width="30px"  style="padding-right:10px;" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp;
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;
