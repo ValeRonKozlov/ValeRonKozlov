@@ -2,9 +2,9 @@
 
 ### Обо мне
 
-Я начинающий веб разработчик. Мой путь в it начался с самостоятельного поиска информации по верстке сайтов и веб разработке. С августа 2022 года по апрель 2023 я изучал веб разработку на курсе Frontend developer от Skillbox. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы!
+Я начинающий веб разработчик. Мой путь в it начался с самостоятельного поиска информации по верстке сайтов и веб разработке. Изучал веб разработку на курсе Frontend developer от Skillbox. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы!
 
-- :seedling: Завершил курсы по веб-разработке SkillBox!
+- :seedling: Завершил курс профессиональной переподготовки по специальности Frontend Developer SkillBox!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
 
