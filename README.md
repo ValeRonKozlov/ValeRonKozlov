@@ -45,15 +45,19 @@
   <a href="https://vk.com/valeronkozlov" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
+  
+  <a href="https://leetcode.com/ValeRonKozlov/" target="_blank">
+    <img src="[https://cdn-icons-png.flaticon.com/512/145/145813.png](https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png)" width="40" height="40" alt="LeetCode Badge"/>
+  </a>
 
 <br />
 
 ---
 
-### 💻 Codewars and LeetCode
+### 💻 Codewars
 
 ![codewars](https://www.codewars.com/users/ValeRonKozlov/badges/large)
-<img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="LeetCode" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />&nbsp;
+
 ---
 
 <details>
