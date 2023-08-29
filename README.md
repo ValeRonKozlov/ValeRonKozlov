@@ -30,6 +30,7 @@
   <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" title="gulp" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
   <img align="left" alt="jest" width="30px"  style="padding-right:10px;" title="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
   <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />&nbsp;
+  <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="LeetCode" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />&nbsp;
 </div>
 
 <br />
@@ -55,13 +56,7 @@
 ![codewars](https://www.codewars.com/users/ValeRonKozlov/badges/large)
 
 ---
-###  💻 LeetCode
 
-  <a href="[https://leetcode.com/ValeRonKozlov/](https://leetcode.com/ValeRonKozlov/)" target="_blank">
-    <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="LeetCode" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />&nbsp;
-  </a>
-  
----
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeRonKozlov&langs_count=8&layout=compact" />
