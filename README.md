@@ -56,7 +56,7 @@
 
 ---
 ### leetCode
-![leetcode](https://leetcode.com/ValeRonKozlov/)
+(https://leetcode.com/ValeRonKozlov/)
 
 ---
 <details>
