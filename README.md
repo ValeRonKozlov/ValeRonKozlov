@@ -30,6 +30,7 @@
   <img align="left" alt="gulp" width="30px"  style="padding-right:10px;" title="gulp" src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" />&nbsp;
   <img align="left" alt="jest" width="30px"  style="padding-right:10px;" title="jest" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />&nbsp;
   <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="figma" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />&nbsp;
+<!--   <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="LeetCode" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />&nbsp; -->
 </div>
 
 <br />
@@ -39,17 +40,13 @@
 ### 🤝 Социальные сети
   
   <a href="https://t.me/ValeRonKozlov" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <img title="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
 
   <a href="https://vk.com/valeronkozlov" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <img title="Vk" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
   
-  <a href="https://leetcode.com/ValeRonKozlov/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="40" height="40" alt="LeetCode Badge"/>
-  </a>
-
 <br />
 
 ---
