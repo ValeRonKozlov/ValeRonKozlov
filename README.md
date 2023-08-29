@@ -55,9 +55,10 @@
 ![codewars](https://www.codewars.com/users/ValeRonKozlov/badges/large)
 
 ---
-### leetCode
-(https://leetcode.com/ValeRonKozlov/)
-
+###  💻 LeetCode
+  <a href="https://leetcode.com/ValeRonKozlov/" target="_blank"
+    <img align="left" alt="figma" width="30px"  style="padding-right:10px;" title="figma" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />&nbsp;
+  </a>
 ---
 <details>
   <summary>:zap: Statistics:</summary>
