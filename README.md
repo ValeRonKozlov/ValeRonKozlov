@@ -7,7 +7,7 @@
 - :seedling: Завершил курс профессиональной переподготовки по специальности Frontend Developer SkillBox!
 - 📖 Изучаю React.
 - 💻 Решаю задачки на Codewars
-- [Site Potfolio (https://valeronkozlov.github.io/site_portfolio/)]
+- [![Site Potfolio] (https://valeronkozlov.github.io/site_portfolio/)]
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
 
