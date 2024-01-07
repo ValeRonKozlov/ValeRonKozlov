@@ -9,7 +9,7 @@
 - 💻 Решаю задачки на Codewars
 - 🌐 Сайт портфолио: [![My badge](https://img.shields.io/badge/-SitePortfolio-green?style=flat)](https://valeronkozlov.github.io/site_portfolio/)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:frinkenton@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ValeRonKozlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeRonKozlov) [![Hotmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:valeronkozlov@hotmail.com)
 
 <br />
 
